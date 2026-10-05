@@ -115,7 +115,7 @@ A dedicated **Calendar Table** is used as the primary date dimension for:
 - Growth calculations
 - Trend analysis
 
-[Calendar Table DAX Documentation](../DAX%20Formulas/Calender_Table_Measures.md)
+[Calendar Table DAX Documentation](../Dax%20Formula's/Calender_Table_Measures.md)
 
 ---
 
@@ -123,19 +123,19 @@ A dedicated **Calendar Table** is used as the primary date dimension for:
 
 ### Sales Measures
 
-[Sales Measures](../DAX%20Formulas/Sales_Measures.md)
+[Sales Measures](../Dax%20Formula's/Sales_Measures.md)
 
 Includes Total Sales, YTD Sales, PYTD Sales, Sales Growth %, MTD Sales, MTD Sales KPI, and peak-sales analysis.
 
 ### Average Sales Measures
 
-[Average Sales Measures](../DAX%20Formulas/Avg_Sales_Measures.md)
+[Average Sales Measures](../Dax%20Formula's/Avg_Sales_Measures.md)
 
 Includes average selling price and related time-intelligence calculations.
 
 ### Car Sold Measures
 
-[Car Sold Measures](../DAX%20Formulas/Car_sold_Measures.md)
+[Car Sold Measures](../Dax%20Formula's/Car_sold_Measures.md)
 
 Includes total cars sold, YTD cars sold, PYTD cars sold, growth, MTD cars sold, and KPI calculations.
 
@@ -437,21 +437,21 @@ Future versions can include:
 
 ### KPI Images
 
-[Average Sales KPI](../KPI%20Images/Avg_Sales.png)
+[Average Sales KPI](../KPI's%20Image/Avg._Sales.png)
 
-[Car Brands KPI](../KPI%20Images/Car_Brands.png)
+[Car Brands KPI](../KPI's%20Image/Car_Brands.png)
 
-[Cars Sold KPI](../KPI%20Images/Car_Sold.png)
+[Cars Sold KPI](../KPI's%20Image/Car_sold.png)
 
-[Header Line](../KPI%20Images/Header_Line.png)
+[Header Line](../KPI's%20Image/Header_Line.png)
 
-[Total Sales KPI](../KPI%20Images/Total_Sales.png)
+[Total Sales KPI](../KPI's%20Image/Total_Sales.png)
 
 ---
 
 ## 18. Power BI Dashboard
 
-[Open Power BI Dashboard](../Overview/Car_Sales_Analysis_Dashboard.pbix)
+[Open Power BI Dashboard](../Car_Sales_Analysis_Dashboard.pbix)
 
 ---
 
@@ -515,46 +515,10 @@ Therefore, revenue growth should not automatically be interpreted as profit grow
 
 ---
 
-## 22. Project Files
-
-### Dataset
-
-[Car Sales Dataset](../Data%20Set/Car_Sales_Data.xlsx)
-
-### DAX Documentation
-
-[Calendar Table Measures](../DAX%20Formulas/Calender_Table_Measures.md)
-
-[Sales Measures](../DAX%20Formulas/Sales_Measures.md)
-
-[Average Sales Measures](../DAX%20Formulas/Avg_Sales_Measures.md)
-
-[Car Sold Measures](../DAX%20Formulas/Car_sold_Measures.md)
-
-### Dashboard
-
-[Power BI Dashboard](../Overview/Car_Sales_Analysis_Dashboard.pbix)
-
-[Overview Preview](../Overview/Car_Sales_Analysis_Dashboard_Overview_Preview.png)
-
-[Details Preview](../Overview/Car_Sales_Analysis_Dashboard_Details_Preview.png)
-
-### KPI Assets
-
-[Average Sales](../KPI%20Images/Avg_Sales.png)
-
-[Car Brands](../KPI%20Images/Car_Brands.png)
-
-[Cars Sold](../KPI%20Images/Car_Sold.png)
-
-[Total Sales](../KPI%20Images/Total_Sales.png)
-
-[Header Line](../KPI%20Images/Header_Line.png)
-
 ---
 
 
-## 23. Business Analysis Framework
+## 22. Business Analysis Framework
 
 This project follows a practical business analytics framework:
 
@@ -604,7 +568,7 @@ Translate the findings into actions related to:
 
 ---
 
-## 24. Technical Skills Demonstrated
+## 23. Technical Skills Demonstrated
 
 This project demonstrates the following practical technical capabilities:
 
@@ -676,7 +640,7 @@ These calculations support sales KPIs, time intelligence, growth analysis, dynam
 
 ---
 
-## 25. Technical-to-Business Mapping
+## 24. Technical-to-Business Mapping
 
 | Technical Capability | Business Application |
 |---|---|
@@ -695,7 +659,7 @@ These calculations support sales KPIs, time intelligence, growth analysis, dynam
 
 ---
 
-## 26. Technical Architecture
+## 25. Technical Architecture
 
 The project follows this analytical architecture:
 
@@ -725,7 +689,7 @@ The architecture separates **data preparation, modeling, calculation, visualizat
 
 ---
 
-## 27. Data Quality & Validation
+## 26. Data Quality & Validation
 
 Before using the dashboard for decision-making, key outputs should be validated against the source dataset.
 
@@ -745,7 +709,7 @@ This validation reduces the risk of presenting incorrect business information to
 
 ---
 
-## 28. Business Impact
+## 27. Business Impact
 
 The dashboard can support management in four major areas:
 
@@ -767,7 +731,7 @@ Use brand, dealer, product, and regional performance to prioritize sales and inv
 
 ---
 
-## 29. Decision-Making Example
+## 28. Decision-Making Example
 
 ### Business Signal
 
@@ -789,7 +753,7 @@ This demonstrates how the dashboard moves beyond reporting into **business diagn
 
 ---
 
-## 30. Future Technical Improvements
+## 29. Future Technical Improvements
 
 Future versions can strengthen the technical architecture by adding:
 
@@ -809,7 +773,7 @@ Future versions can strengthen the technical architecture by adding:
 
 ---
 
-## 31. Future Business Intelligence Improvements
+## 30. Future Business Intelligence Improvements
 
 Future versions can extend the project from descriptive analytics toward advanced decision intelligence:
 
@@ -855,7 +819,7 @@ What should the business do?
 
 ---
 
-## 32. Professional Project Positioning
+## 31. Professional Project Positioning
 
 This project should be positioned as a **Business Intelligence and Sales Analytics solution**, rather than simply a Power BI dashboard.
 
@@ -866,7 +830,7 @@ The strongest project narrative is:
 > **Raw data → Reliable model → Business KPIs → Performance analysis → Root-cause investigation → Business recommendations**
 
 
-## 33. Conclusion
+## 32. Conclusion
 
 The Car Sales Analysis Dashboard transforms transactional sales data into a decision-oriented business intelligence solution.
 
