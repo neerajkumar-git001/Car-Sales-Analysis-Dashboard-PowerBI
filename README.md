@@ -421,12 +421,8 @@ This creates an opportunity to maintain volume growth while improving pricing, p
 ----
 
 
-## Conclusion
+### Connect With Me
 
-This Car Sales Analysis Dashboard transforms raw sales data into a clear Business Intelligence solution for understanding sales performance and growth.
+* **GitHub:** https://github.com/neerajsahu-git
+* **LinkedIn:** https://www.linkedin.com/in/neerajkumarsahu-data
 
-The analysis shows **23.59% revenue growth** and **9.27% growth in cars sold**, while average sales declined slightly by **0.79%**. This indicates that higher sales volume is the primary driver of revenue growth.
-
-The dashboard helps identify high-performing brands, body styles, colors, and sales trends, enabling better decisions around **pricing, product mix, inventory, and sales strategy**.
-
-Overall, the project demonstrates how **Power BI, DAX, Power Query, and data visualization** can convert transaction-level data into actionable business insights.
