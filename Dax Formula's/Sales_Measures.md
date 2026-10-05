@@ -80,3 +80,33 @@ CONCATENATE(
 )
 ```
 Description: Converts MTD sales into a formatted KPI text showing the monthly sales value in millions.
+
+---
+
+## 7. Car Brands
+
+```DAX:
+Car Brands =
+DISTINCTCOUNT('Cars Sales Data'[Company])
+```
+Description: Calculates the total number of unique car brands available in the sales dataset.
+
+---
+
+## 8. Max Point
+
+```DAX:
+_Max Point =
+IF(
+    MAXX(
+        ALLSELECTED('Caledar Table'[Weak]),
+        [Total Sales]
+    ) = [Total Sales],
+    MAXX(
+        ALLSELECTED('Caledar Table'[Weak]),
+        [Total Sales]
+    ),
+    BLANK()
+)
+```
+**Description:** Identifies the highest total sales value within the selected weeks and returns the value only for the week with the maximum sales, helping highlight the peak sales point in the trend chart.
