@@ -1,5 +1,6 @@
 # Car Sales Analysis Dashboard
 
+
 A business-focused Power BI solution developed to analyze car sales performance, understand revenue growth, identify sales-volume drivers, evaluate pricing movement, and support data-driven business decisions.
 
 The dashboard transforms transaction-level car sales data into an interactive analytical solution covering **$371.19M in YTD sales, 13.26K cars sold, 30 brands, and a 23.59% sales growth**.
