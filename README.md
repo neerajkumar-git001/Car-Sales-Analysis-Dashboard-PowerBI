@@ -414,7 +414,6 @@ The analysis identified:
 
 The overall business story is clear:
 
-
 **Strong revenue growth is being supported by higher sales volume, while average transaction value shows a slight decline.**
 
 This creates an opportunity to maintain volume growth while improving pricing, product mix, and transaction value.
